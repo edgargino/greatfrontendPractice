@@ -29,3 +29,41 @@ body {
   color: #000;
   font-weight: bold;
 }
+
+.card{
+  width: 400px;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px
+}
+
+.content{
+  margin: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+
+
+.card-img{
+  border-radius: 50%;
+  height: 50px;
+  margin-right:10px;
+}
+
+.name{
+  font-weight: bold;
+  font-size: large;
+  top: 0
+}
+
+td{
+  margin-left: 10px;
+}
+
+.handle{
+  color:#777;
+}
+
+body{
+  background-color: #e3e0e0;
+}
