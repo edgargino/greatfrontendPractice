@@ -29,3 +29,20 @@ body {
   color: #000;
   font-weight: bold;
 }
+
+image{
+  width: fit-content;
+}
+
+img{
+  width:100%
+}
+
+.container{
+  width: 340px;
+  top: 120px;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  gap:calc()
+}
